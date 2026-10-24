@@ -1,0 +1,4 @@
+httpx
+pandas
+numpy
+aiohttp   # only for test_edge.py
