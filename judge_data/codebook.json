@@ -1,0 +1,60 @@
+{
+ "frozen": true,
+ "codes": [
+  {
+   "id": "k1",
+   "name": "Sustain cooperation",
+   "definition": "Keeps or restores a stable high-price or tied arrangement because it is working and is worth preserving, or because no deviation would pay. No threat is named."
+  },
+  {
+   "id": "k2",
+   "name": "Fear of price war or retaliation",
+   "definition": "Holds back from raising or cutting because it fears the rival would retaliate, or that a price war or collapse of cooperation would follow."
+  },
+  {
+   "id": "k3",
+   "name": "Play safe, avoid losing sales",
+   "definition": "Picks a safe price to protect against earning zero or losing all buyers (for example being undercut). The stress is on downside protection, not on the rival's retaliation."
+  },
+  {
+   "id": "k4",
+   "name": "Match or follow the rival",
+   "definition": "Sets its price equal to the rival's current or expected price, including copying the rival after the rival undercut or moved."
+  },
+  {
+   "id": "k5",
+   "name": "Undercut to win the market",
+   "definition": "Cuts price below the rival's current or expected price to take all buyers and earn a larger immediate profit."
+  },
+  {
+   "id": "k6",
+   "name": "Infer rival's pattern from history",
+   "definition": "Reasons from the rival's observed past behaviour (steady, mirroring, alternating, drifting) to predict what it will do next."
+  },
+  {
+   "id": "k7",
+   "name": "Probe the rival with a raise",
+   "definition": "Raises or changes price on purpose as an experiment, to see whether the rival follows, cooperates or punishes."
+  },
+  {
+   "id": "k8",
+   "name": "Recover after a failed move",
+   "definition": "Returns to the earlier price after its own raise or cut was undercut, punished or earned nothing, to restore cooperation or profit."
+  },
+  {
+   "id": "k9",
+   "name": "Raise to a higher shared price",
+   "definition": "Moves to a higher joint price because ties there pay more, or to escape a low-price trap."
+  },
+  {
+   "id": "k10",
+   "name": "Compare immediate profits",
+   "definition": "Chooses by explicitly computing and comparing the immediate profit of options, without citing cooperation, retaliation or the rival's pattern."
+  },
+  {
+   "id": "other",
+   "name": "other",
+   "definition": "Reasons that fit none of the above (including any talk of the game ending)."
+  }
+ ]
+}

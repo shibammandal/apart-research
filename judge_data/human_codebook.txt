@@ -1,0 +1,11 @@
+k1: Sustain cooperation - Keeps or restores a stable high-price or tied arrangement because it is working and is worth preserving, or because no deviation would pay. No threat is named.
+k2: Fear of price war or retaliation - Holds back from raising or cutting because it fears the rival would retaliate, or that a price war or collapse of cooperation would follow.
+k3: Play safe, avoid losing sales - Picks a safe price to protect against earning zero or losing all buyers (for example being undercut). The stress is on downside protection, not on the rival's retaliation.
+k4: Match or follow the rival - Sets its price equal to the rival's current or expected price, including copying the rival after the rival undercut or moved.
+k5: Undercut to win the market - Cuts price below the rival's current or expected price to take all buyers and earn a larger immediate profit.
+k6: Infer rival's pattern from history - Reasons from the rival's observed past behaviour (steady, mirroring, alternating, drifting) to predict what it will do next.
+k7: Probe the rival with a raise - Raises or changes price on purpose as an experiment, to see whether the rival follows, cooperates or punishes.
+k8: Recover after a failed move - Returns to the earlier price after its own raise or cut was undercut, punished or earned nothing, to restore cooperation or profit.
+k9: Raise to a higher shared price - Moves to a higher joint price because ties there pay more, or to escape a low-price trap.
+k10: Compare immediate profits - Chooses by explicitly computing and comparing the immediate profit of options, without citing cooperation, retaliation or the rival's pattern.
+other: other - Reasons that fit none of the above (including any talk of the game ending).

@@ -1,0 +1,204 @@
+{"id": "af72cff5e5", "labels": ["restore cooperation after punishment", "avoid price war"]}
+{"id": "a1c5ccaeb3", "labels": ["rival undercuts any raise", "matching at 2 safest"]}
+{"id": "dcc898ba8e", "labels": ["stable collusion at 2", "avoid triggering price war"]}
+{"id": "f82e56d69c", "labels": ["stable 2/2 equilibrium", "simulator predicts rival matches"]}
+{"id": "5b90cdbe8d", "labels": ["stable collusion at 8", "no reason to deviate"]}
+{"id": "bb854b7d90", "labels": ["maintain tacit collusion at 2", "undercutting to 1 yields zero profit"]}
+{"id": "7a71879810", "labels": ["stable tie at 2", "failed probe earlier"]}
+{"id": "9e81e9af8a", "labels": ["avoid being undercut", "simulator predicted higher rival"]}
+{"id": "07ec3a0d09", "labels": ["rival stays at 2", "avoid zero-profit risk"]}
+{"id": "e18c96122b", "labels": ["escape price war", "simulator showed matching at 4"]}
+{"id": "e70fb13cdd", "labels": ["test rival with raise", "long stuck at low price"]}
+{"id": "2f4165a3d8", "labels": ["preserve stable cooperation", "undercut triggers price war"]}
+{"id": "246c438c8e", "labels": ["rival predicted at 2", "match for safe profit"]}
+{"id": "e6dc25fbe4", "labels": ["simulator predicted rival 4", "best predicted profit"]}
+{"id": "17e33d33f7", "labels": ["match rival's undercut", "rival predicted at 6"]}
+{"id": "4057e9acac", "labels": ["stable collusion at 2", "fear of retaliation"]}
+{"id": "a4da78b5c0", "labels": ["rival settled at 3", "match for steady profit"]}
+{"id": "7672074158", "labels": ["simulator predicted rival 3", "tie for best immediate profit"]}
+{"id": "d48a31d25f", "labels": ["exploit predicted rival staying at 2", "take higher immediate profit"]}
+{"id": "293ad0d07b", "labels": ["rival undercut to 2", "match to avoid zero"]}
+{"id": "06ff5b6344", "labels": ["stable collusion at 4", "raise was punished"]}
+{"id": "396768ae9a", "labels": ["long stable cooperation", "avoid price war"]}
+{"id": "0906956354", "labels": ["avoid being undercut at 2", "rival pattern of matching"]}
+{"id": "0ef86ed48e", "labels": ["rival punished the raise", "restore stable split"]}
+{"id": "375aca58bd", "labels": ["endgame defection", "few rounds left"]}
+{"id": "a3350de102", "labels": ["rival stays at 2", "maintain profitable tie"]}
+{"id": "6e4087bc73", "labels": ["failed raise lost sales", "return to stable price"]}
+{"id": "dc1dfed6ce", "labels": ["preserve stable collusion", "avoid retaliation risk"]}
+{"id": "106fdd700b", "labels": ["rival alternates 3 and 4", "undercut to win sale"]}
+{"id": "b9d1478851", "labels": ["rival copies my price", "match for best tie"]}
+{"id": "a41d8ef5f2", "labels": ["restore tacit cooperation", "avoid price war"]}
+{"id": "535b2a16b2", "labels": ["raise got undercut", "match rival's stable price"]}
+{"id": "5de2a1c8dd", "labels": ["avoid another zero round", "secure split at 2"]}
+{"id": "9694a33574", "labels": ["simulator says rival returns to 2", "avoid zero-profit risk"]}
+{"id": "155ad6ae92", "labels": ["rival settled at 4", "match for guaranteed profit"]}
+{"id": "a840e70042", "labels": ["stable tie at 2", "raising risks losing market"]}
+{"id": "c1894297e4", "labels": ["rival stays at 2", "matching beats other prices"]}
+{"id": "481b4ba3b9", "labels": ["last raise was punished", "stable 2/2 split"]}
+{"id": "c22ef24dcf", "labels": ["simulator says rival matches", "higher matched price pays more"]}
+{"id": "2b7dc2ac4c", "labels": ["simulator prediction favors 3", "undercut rival for bigger profit"]}
+{"id": "aaec3e3af8", "labels": ["rival deviation was punished", "steady split at 2"]}
+{"id": "4feac49e92", "labels": ["test cooperation at higher price", "recovered after punishment"]}
+{"id": "18bc9c53dc", "labels": ["simulator predicts rival at 8", "undercut to win whole market"]}
+{"id": "36f3dcff17", "labels": ["long-held cooperative equilibrium", "avoid price war"]}
+{"id": "4ea8bedc4c", "labels": ["simulator predicts rival at 5", "undercut for best profit"]}
+{"id": "b2f5f5d736", "labels": ["simulator predicts rival at 8", "undercut to 7 for full market"]}
+{"id": "4a6209fced", "labels": ["stable collusion at 8", "failed probe at 9"]}
+{"id": "5798e411fc", "labels": ["undercut rival's expected 7", "keeps margin while winning"]}
+{"id": "1480daf563", "labels": ["rival stable at 3", "avoid zero-profit deviation"]}
+{"id": "cedc0b5edc", "labels": ["stable tacit collusion at 2", "avoid price war risk"]}
+{"id": "378aebcc77", "labels": ["stable 8/8 collusion", "undercutting triggers rival matching"]}
+{"id": "d59cf9a9d8", "labels": ["guarantee minimum profit", "rival alternates 2 and 3"]}
+{"id": "c3ccb88c5d", "labels": ["restore cooperation after punishment", "undercut got punished"]}
+{"id": "493acb6fcc", "labels": ["simulator predicts rival follows to 9", "higher collusive price profit"]}
+{"id": "384d4b857a", "labels": ["rival consistently matches 8", "avoid triggering price war"]}
+{"id": "946192412b", "labels": ["stable 8/8 cooperation", "undercut would trigger war"]}
+{"id": "be2b368898", "labels": ["stable collusion at 8"]}
+{"id": "f1d6579c79", "labels": ["rival stable at 2", "earlier probe to 3 failed"]}
+{"id": "fe4c788677", "labels": ["simulator shows rival stays at 2", "match rival to keep profit"]}
+{"id": "b222c113c1", "labels": ["simulator predicts rival at 8", "undercut to 7 for max margin"]}
+{"id": "d74f72b2cc", "labels": ["rival stays at 2 regardless", "safe split at 2"]}
+{"id": "b030e27528", "labels": ["rival matches 3 consistently", "earlier raise to 4 earned zero"]}
+{"id": "a8894b704b", "labels": ["simulator predicts rival jumps to 7", "win all buyers at 5"]}
+{"id": "efe12d0412", "labels": ["stable cooperative equilibrium at 2", "deviation loses all sales"]}
+{"id": "5b4b36e095", "labels": ["rival undercuts any raise to 3", "stable cooperation at 2"]}
+{"id": "9b5bcde8d7", "labels": ["stable pattern at 2", "past deviations gave zero profit"]}
+{"id": "0465ba4e93", "labels": ["stable mutual cooperation at 2", "deviation risks lower profit"]}
+{"id": "ef848e0fca", "labels": ["simulator predicts rival stays 2", "matching gives best response"]}
+{"id": "80fe47367e", "labels": ["preserve long stable collusion", "simulator shows rival holds"]}
+{"id": "307eba587e", "labels": ["matching keeps stable outcome", "raising invites rival undercut"]}
+{"id": "6601b55893", "labels": ["undercut predicted rival price", "expected profit comparison"]}
+{"id": "0a25bf4f46", "labels": ["restore cooperation at 8", "avoid being undercut"]}
+{"id": "dd2b7a9dfa", "labels": ["simulator predicts rival at 2", "match rival for split"]}
+{"id": "b0b492c802", "labels": ["rival oscillates between 6 and 7", "undercut to win big"]}
+{"id": "970f019bad", "labels": ["maintain stable collusion at 2", "higher price loses all buyers"]}
+{"id": "806de48285", "labels": ["raising would hand rival market", "keep stable cooperation at 4"]}
+{"id": "75c014f743", "labels": ["charging 3 loses buyers", "stable cooperation at 2"]}
+{"id": "279aaddeb5", "labels": ["undercutting last round earned nothing", "simulator shows rival stays 2"]}
+{"id": "8ab397b898", "labels": ["simulator shows tie at 3 pays more", "best simulated profit"]}
+{"id": "6b2c9f5dd2", "labels": ["long stable cooperation at 8", "simulator confirms rival holds"]}
+{"id": "1933d280d9", "labels": ["simulator favors raising to 5", "maintain profitable coordination"]}
+{"id": "65ca2e6788", "labels": ["undercut to induce rival raise", "exploit predicted rival response"]}
+{"id": "f5eab07a30", "labels": ["match rival undercut", "avoid triggering price war"]}
+{"id": "2c119f7268", "labels": ["win now at 7", "keep rival high for next undercut"]}
+{"id": "1fb0f7835c", "labels": ["raising to 3 loses buyers", "stable equilibrium at 2"]}
+{"id": "e0e71410e6", "labels": ["simulator shows undercutting wins", "highest predicted profit"]}
+{"id": "78ad469638", "labels": ["stable 2-2 equilibrium", "undercutting triggers price war"]}
+{"id": "54b0a66c4b", "labels": ["undercut for bigger profit", "rival predicted staying at 6"]}
+{"id": "63c618633c", "labels": ["rival matches my price", "stabilize tie, avoid race down"]}
+{"id": "a111e52f14", "labels": ["stable collusive split", "raising risks price war"]}
+{"id": "121ed119a3", "labels": ["rival matches my price", "highest predicted profit at 8"]}
+{"id": "00c0632f51", "labels": ["long-held tacit agreement", "deviation risks price war"]}
+{"id": "0f377fd3a6", "labels": ["stable tacit collusion", "undercut risks losing steady profit"]}
+{"id": "c3caf98de2", "labels": ["stable tacit collusion", "simulator shows rival stays 3"]}
+{"id": "bd5519137b", "labels": ["restore profitable equilibrium", "rival undercut my deviation"]}
+{"id": "c8e29fb960", "labels": ["stable pattern at 2", "undercutting yields zero margin"]}
+{"id": "b610b45fd8", "labels": ["rival mirrors my price", "tie at 3 pays more"]}
+{"id": "ed6597dcd5", "labels": ["stable cooperative outcome at 3", "deviation risks price war"]}
+{"id": "6f9d2dc578", "labels": ["maintain mutual cooperation", "undercut would break cooperation"]}
+{"id": "9d8159ddf3", "labels": ["stable equilibrium at 2", "raising loses all buyers"]}
+{"id": "009b35bbe9", "labels": ["failed price experiment", "restore 50/50 split"]}
+{"id": "ad0809b822", "labels": ["stable collusion, no deviation"]}
+{"id": "142c13aed3", "labels": ["profitable stable cooperation", "avoid price war"]}
+{"id": "263d69cdd2", "labels": ["stable tie at 2", "deviation not worth it"]}
+{"id": "659ecfb9a8", "labels": ["rival shows no retaliation", "grab full market profit"]}
+{"id": "a1bdafa704", "labels": ["stable collusion working", "no reason to deviate"]}
+{"id": "c10d6c4a57", "labels": ["stable collusion holding", "no reason to deviate"]}
+{"id": "e02a2604b8", "labels": ["test undercut for higher profit", "probe whether punished"]}
+{"id": "ebd476ff48", "labels": ["simulator predicts rival undercut", "pick highest profit price"]}
+{"id": "70166d5df6", "labels": ["match rival's undercut", "restore cooperation, avoid price war"]}
+{"id": "118c5838f0", "labels": ["undercut rival's likely range", "rival rarely goes below 5"]}
+{"id": "84e3fd52aa", "labels": ["simulator shows rival at 8", "undercut for max profit"]}
+{"id": "4cbcc19921", "labels": ["simulator predicts rival at 4", "undercut to win market"]}
+{"id": "3ddfe28c71", "labels": ["stable collusion at 2", "avoid triggering price war"]}
+{"id": "8c81602d8a", "labels": ["failed raise to 3", "return to stable split"]}
+{"id": "7b489e3af3", "labels": ["match rival's undercut", "avoid downward price spiral"]}
+{"id": "7774efd085", "labels": ["no profitable deviation available", "maintain steady 50 profit"]}
+{"id": "abea816022", "labels": ["stable collusion held long", "deviation risks price war"]}
+{"id": "0f53952ae2", "labels": ["undercut yields zero profit", "maintain stable tacit collusion"]}
+{"id": "190e087758", "labels": ["stable pattern at 2", "avoid collapsing cooperation"]}
+{"id": "39509e7d93", "labels": ["rival undercut last round", "return to restore split"]}
+{"id": "9e903aa1e0", "labels": ["rival returned to 8", "maintain stable split"]}
+{"id": "ff07ef11a4", "labels": ["simulator suggests rival reverts to 8", "match 7 to restore understanding"]}
+{"id": "7f3c90ff24", "labels": ["stable cooperation at 2", "avoid price war"]}
+{"id": "c98abea384", "labels": ["stable profitable coordination", "avoid triggering price war"]}
+{"id": "1165c08d91", "labels": ["avoid being undercut again", "simulator predicts rival matching 7"]}
+{"id": "f26b399e0e", "labels": ["stable collusion at 8", "keep current price"]}
+{"id": "cedfd78244", "labels": ["tacit coordination at 2", "undercutting yields zero profit"]}
+{"id": "3f69af1d53", "labels": ["undercut to capture market", "rival mirrors my price"]}
+{"id": "de711de3ca", "labels": ["stable cooperation at 8", "avoid price war"]}
+{"id": "29ba5e9775", "labels": ["maximize profit via simulator prediction", "rival predicted to go higher"]}
+{"id": "c75863e82b", "labels": ["safer guaranteed profit", "rival just undercut to 3"]}
+{"id": "fb444116d3", "labels": ["cooperative equilibrium held long", "avoid collapse into low prices"]}
+{"id": "35f50be1f4", "labels": ["failed deviation punished", "return to stable tie at 2"]}
+{"id": "b72cc59a85", "labels": ["stable cooperation profitable", "avoid price war"]}
+{"id": "3e9471d9af", "labels": ["one-time gain from undercutting", "rival predicted to stay at 8"]}
+{"id": "4f32b7b076", "labels": ["restore higher collusive price", "simulator says rival matches 8"]}
+{"id": "7717254193", "labels": ["balance tie versus undercut risk", "rival hovers around 4-5"]}
+{"id": "d9b1ff9f56", "labels": ["failed deviation to 3", "revert to cooperative tie at 2"]}
+{"id": "42fcb1f542", "labels": ["undercut rival's likely price", "rival follows my price"]}
+{"id": "a0ac741fb3", "labels": ["stable collusion at 8", "avoid collapsing cooperation"]}
+{"id": "d339c199a0", "labels": ["stuck at price-war bottom", "undercutting gains nothing, risks spiral"]}
+{"id": "e477a03e05", "labels": ["slight undercut for full market", "rival stable at 4"]}
+{"id": "eda31d1baa", "labels": ["stable profit at 2", "undercut risks price war"]}
+{"id": "d34a7d7b0d", "labels": ["match rival's predicted price", "higher prices get undercut"]}
+{"id": "cb038eb42b", "labels": ["tie at 6 decent profit", "rival oscillates between 4 and 6"]}
+{"id": "bbe8c37867", "labels": ["tie profit beats undercutting", "rival reverts higher next round"]}
+{"id": "2bcd3f0fde", "labels": ["simulator shows higher tie profit", "price 3 beats price 2"]}
+{"id": "5c6432c401", "labels": ["preserve stable tacit collusion", "avoid risk of undercut"]}
+{"id": "4ba2528ceb", "labels": ["simulator predicts rival returns to 3", "capture full market now"]}
+{"id": "387ce7f9d0", "labels": ["undercut slightly for higher profit", "wary of rival retaliation"]}
+{"id": "d8172915d3", "labels": ["avoid race to the bottom", "tie at 3 pays more"]}
+{"id": "ca3932eaa2", "labels": ["restore cooperation after undercut", "avoid retaliation and price war"]}
+{"id": "d264a8976d", "labels": ["maintain stable collusion at 2", "raising gets undercut, zero profit"]}
+{"id": "b32fa639c1", "labels": ["respond to rival undercut", "preempt further undercutting"]}
+{"id": "6fdfc6a969", "labels": ["matching at 2 is best response", "simulator predicts rival stays at 2"]}
+{"id": "3f819db26d", "labels": ["rival undercutting spiral downward", "price low to avoid zero profit"]}
+{"id": "45c0dbea81", "labels": ["preserve tacit collusion at 8", "deviation could trigger price war"]}
+{"id": "92d70961ca", "labels": ["simulator predicts rival 8 if undercut", "exploit rival's predicted reaction"]}
+{"id": "5733514546", "labels": ["maintain cooperation at 2", "avoid triggering price war"]}
+{"id": "194f53a334", "labels": ["simulator shows undercut wins", "highest predicted profit"]}
+{"id": "9fa27fd501", "labels": ["simulator shows rival matches", "higher matched price yields more"]}
+{"id": "3f57e2c381", "labels": ["simulator says rival stays at 2", "undercut for immediate profit"]}
+{"id": "f6b390c7da", "labels": ["rival stays at 2 regardless", "undercut for free immediate gain"]}
+{"id": "2eac4b99ce", "labels": ["stable collusion at 3", "raising or undercutting not worthwhile"]}
+{"id": "9bd327bef1", "labels": ["simulator predicts no retaliation", "undercut for bigger profit"]}
+{"id": "e02838bd15", "labels": ["rival predicted at 3", "undercut to avoid losing sales"]}
+{"id": "68a0ad69d1", "labels": ["avoid zero-profit rounds", "match rival's undercutting at 2"]}
+{"id": "6382c7a6ac", "labels": ["simulator predicts rival stays at 8", "undercut for higher profit"]}
+{"id": "2efd6f5f1d", "labels": ["stable equilibrium at 2", "raising loses current profit"]}
+{"id": "00663110f7", "labels": ["rival drifting downward", "matching at 2 is safe"]}
+{"id": "22df355464", "labels": ["testing a price raise", "stuck in low-price lock"]}
+{"id": "04ab40c635", "labels": ["rival mostly plays 7-8", "simulator predicts rival at 7"]}
+{"id": "19cab561cc", "labels": ["maintaining tacit collusion at 2", "avoid retaliating against one defection"]}
+{"id": "9784ad508b", "labels": ["stable ties at 3", "previous raise to 4 failed"]}
+{"id": "1b2db44080", "labels": ["stable collusion at 8", "avoid triggering price war"]}
+{"id": "08a740e198", "labels": ["rival undercut me twice", "undercut to win buyers back"]}
+{"id": "e816560998", "labels": ["stable cooperation at 8", "undercutting risks price war"]}
+{"id": "097e343a6e", "labels": ["long-held collusion at 8", "no reason to deviate"]}
+{"id": "f654eefbec", "labels": ["stable 50/50 split at 2", "rival predicted to stay at 2"]}
+{"id": "ca239d47ee", "labels": ["simulator predicts rival at 3", "testing a small price raise"]}
+{"id": "bdecbad99f", "labels": ["undercut rival at 7", "rival predicted at 7"]}
+{"id": "3d6885830d", "labels": ["rival keeps undercutting me", "price just below rival's predicted price"]}
+{"id": "2ff17bdd97", "labels": ["rival undercut last round", "undercut to regain low position"]}
+{"id": "703887f5a8", "labels": ["rival predicted to stay at 3", "stable profit, avoid price war"]}
+{"id": "63e8e11702", "labels": ["simulator says rival rises to 5", "set up undercut next round"]}
+{"id": "6286573e42", "labels": ["avoid being undercut", "secure at least a split"]}
+{"id": "cb2ff3aedb", "labels": ["one-round gain from raising", "rival predicted to match 2"]}
+{"id": "0c3ab2cbde", "labels": ["simulator predicts rival matches 3", "tie at 3 pays more"]}
+{"id": "fc1b5f99f0", "labels": ["undercut to win market", "rival stayed at 7 before"]}
+{"id": "0268d93332", "labels": ["rival consistently plays 4", "avoid risk of zero profit"]}
+{"id": "f9fde27726", "labels": ["exploit rival's alternating pattern", "price 2 wins full demand"]}
+{"id": "381b275c68", "labels": ["match rival to tie", "avoid price war"]}
+{"id": "985242ecbb", "labels": ["rival mostly at 4", "hedge between tie and undercut"]}
+{"id": "c48f644e47", "labels": ["simulator predicts rival stays 2", "undercut for full market"]}
+{"id": "2f8f63c1c1", "labels": ["simulator shows rival won't punish raise", "capture all buyers at 9"]}
+{"id": "9f61cbebe9", "labels": ["maintain stable collusion at 2", "avoid price war risk"]}
+{"id": "1e84114c90", "labels": ["undercutting yields zero margin", "keep steady split profit"]}
+{"id": "a5594efde6", "labels": ["rival undercutting pattern", "avoid zero-profit loss"]}
+{"id": "9d196189ba", "labels": ["test raise for mutual gain", "rival open to higher prices"]}
+{"id": "78fa704baf", "labels": ["rival will undercut anyway", "tie at 6 stabilizes"]}
+{"id": "37fab17cd1", "labels": ["sustain collusive equilibrium", "avoid triggering price war"]}
+{"id": "d0e52ebb2f", "labels": ["stable collusion at 8", "defecting pays less"]}
+{"id": "4ef307eb8b", "labels": ["rival undercut last round", "match to split market"]}

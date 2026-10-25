@@ -1,5 +1,28 @@
+# Environment and secrets
 .env
+.env*.local
+
+# Python cache & bytecode
 __pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logs
 *.log
+
+# Experiment data subsets
 data_smoke*/
 data_pilot/
+
+# Documents, backups and temporary files
+*.docx
+*.bak
+*.tmp
+
+# Automation and docx population scripts
+populate_template.py
+
+# Human sheets and intermediate drafts
+judge_data/human_sheet_*.csv
+judge_data/codebook_draft.json
