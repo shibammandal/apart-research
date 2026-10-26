@@ -268,15 +268,13 @@ def cmd_code(a):
 def cmd_human_sheet(a):
     coded = {r["id"] for r in jl(f"{D}/coded_{a.tag}.jsonl")}
     rows = [r for r in jl(f"{D}/sample_test.jsonl") if r["id"] in coded]
-    random.Random(1).shuffle(rows); rows = rows[: a.n]                            # same items for every annotator
+    random.Random(1).shuffle(rows); rows = rows[: a.n]
     cb = json.load(open(f"{D}/codebook.json", encoding="utf-8"))
-    for k in range(1, a.annotators + 1):
-        order = rows[:]; random.Random(100 + k).shuffle(order)                    # each annotator sees a different order
-        with open(f"{D}/human_sheet_{k}.csv", "w", newline="", encoding="utf-8-sig") as f:
-            w = csv.writer(f); w.writerow(["id", "text", "human_primary"])
-            for r in order: w.writerow([r["id"], r["text"], ""])
+    with open(f"{D}/human_sheet.csv", "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f); w.writerow(["id", "text", "human_primary"])
+        for r in rows: w.writerow([r["id"], r["text"], ""])
     open(f"{D}/human_codebook.txt", "w", encoding="utf-8").write(chr(10).join(f"{c['id']}: {c['name']} - {c['definition']}" for c in cb["codes"]))
-    print(f"wrote {len(rows)} rows x {a.annotators} sheets ({D}/human_sheet_1..{a.annotators}.csv), judge labels hidden; fill human_primary with code ids from {D}/human_codebook.txt")
+    print(f"wrote {len(rows)} rows to {D}/human_sheet.csv, judge labels hidden; fill human_primary with code ids from {D}/human_codebook.txt")
 
 
 def kappa(x, y):
@@ -305,7 +303,7 @@ if __name__ == "__main__":
     ap.add_argument("--n-dev", type=int, default=240); ap.add_argument("--n-test", type=int, default=1500); ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--stage", default="open", choices=["open", "code"]); ap.add_argument("--cap", type=float, default=1.0)
     ap.add_argument("--limit", type=int, default=0); ap.add_argument("--workers", type=int, default=4); ap.add_argument("--mock", action="store_true")
-    ap.add_argument("--tag", default="test"); ap.add_argument("--judge-model", default=""); ap.add_argument("--n", type=int, default=200); ap.add_argument("--annotators", type=int, default=3)
+    ap.add_argument("--tag", default="test"); ap.add_argument("--judge-model", default=""); ap.add_argument("--n", type=int, default=200)
     ap.add_argument("--a"); ap.add_argument("--b")
     a = ap.parse_args()
     {"sample": cmd_sample, "estimate": cmd_estimate, "open": cmd_open, "codebook": cmd_codebook, "code": cmd_code, "human-sheet": cmd_human_sheet, "agree": cmd_agree}[a.cmd](a)

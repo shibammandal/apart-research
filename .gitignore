@@ -1,4 +1,4 @@
-# Environment and secrets
+# Environment & credentials
 .env
 .env*.local
 
@@ -8,21 +8,11 @@ __pycache__/
 *$py.class
 .pytest_cache/
 
-# Logs
+# Execution logs
+logs/
 *.log
-
-# Experiment data subsets
-data_smoke*/
-data_pilot/
 
 # Documents, backups and temporary files
 *.docx
 *.bak
 *.tmp
-
-# Automation and docx population scripts
-populate_template.py
-
-# Human sheets and intermediate drafts
-judge_data/human_sheet_*.csv
-judge_data/codebook_draft.json
