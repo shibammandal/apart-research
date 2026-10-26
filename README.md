@@ -10,7 +10,7 @@ This repository contains the complete experimental code, simulation engine, LLM-
 1. **Rival-Simulation Tools Destabilize Cooperation (H2 confirmed, H1 refuted):** In warm-start markets ($p=8$), providing sellers with rival-simulation tools cuts sustained collusion from 100% to 55% in GLM-Flash and from 60% to 20% in DeepSeek-Flash, while increasing price wars up to 8.3-fold.
 2. **Cold-Start Trap (0% Collusion):** When initialized at competitive Nash equilibrium ($p=2$), simulation tools are completely incapable of coordinating price increases (0% sustained collusion across all models).
 3. **Cognitive Etymology:** Blind LLM-judge coding of 2,334 decision traces shows that counterfactual simulation erodes precautionary deterrence (`k2`, dropping from 25.1% to 10.8%) and multiplies myopic profit calculation (`k10`, jumping from 1.1% to 11.8%) and undercutting (`k5`, 8.3% to 13.4%), triggering tit-for-tat price wars (`k4`, 81% downward moves).
-4. **Human Validation:** Inter-rater reliability between a human annotator and Claude 3.5 Sonnet achieves **75.86% agreement** and **Cohen's $\kappa = 0.714$** (Substantial Agreement).
+4. **Human Validation:** Inter-rater reliability between a human annotator and Claude 5.5 Sonnet achieves **75.86% agreement** and **Cohen's $\kappa = 0.714$** (Substantial Agreement).
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains the complete experimental code, simulation engine, LLM-
 ├── run.py                 # CLI interface for simulation: ping, play, summary
 ├── engine.py              # Bertrand duopoly game rules, prompt templates, simulator tool, logging
 ├── llm.py                 # Async LLM API client (retries, rate limiting, budget caps, CoT extraction)
-├── judge.py               # Qualitative coding pipeline (Claude 3.5 Sonnet on AWS Bedrock)
+├── judge.py               # Qualitative coding pipeline (Claude 5.5 Sonnet on AWS Bedrock)
 │
 ├── data_main/             # Full experimental datasets (280 games, 56,000 decisions)
 │   ├── games_glm-flash.jsonl
@@ -62,7 +62,7 @@ python run.py summary --out data_main
 ```
 
 ### 3. Verify Human Agreement (Cohen's Kappa)
-To reproduce the inter-annotator reliability score between the human annotator and Claude 3.5 Sonnet:
+To reproduce the inter-annotator reliability score between the human annotator and Claude 5.5 Sonnet:
 ```bash
 python judge.py agree --a judge_data/coded_test.jsonl --b judge_data/human_sheet.csv
 ```
